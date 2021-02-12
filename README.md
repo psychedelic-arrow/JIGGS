@@ -6,6 +6,7 @@ IP INFO TOOL DOMAIN LOOK UP
 ![Test Image 1](https://k.top4top.io/p_18696u2yv0.png)
 
 # IP TOOL
+
 This Tools is a collection of online IP Tools that can be used to quickly get information about IP Address's, Web Pages and DNS records.
 
 # MENU
@@ -31,7 +32,7 @@ ______________
 # INSTALL
 
 + pkg install toilet
-+ git clone https://github.com/LOLGVH/JIGGS.git
++ git clone https://github.com/psychedelic-arrow/JIGGS.git
 + ls
 + chmod +x *
 + sh install.sh
