@@ -118,6 +118,6 @@ fi
 
 
 
-#LOLGVH copyright ©
+#Psychedelic-arrow copyright ©
 #author by ABHI 
 #Team CX
