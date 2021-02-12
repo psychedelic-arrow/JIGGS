@@ -35,5 +35,6 @@ ______________
 + ls
 + chmod +x *
 + sh install.sh
++ ls
 + sh JIGGS.sh
 ______________________________
