@@ -14,7 +14,7 @@ This Tools is a collection of online IP Tools that can be used to quickly get in
 ______________
 # DOMAIN TOOL MENU
 
-×Whois lookup
+× Whois lookup
 
 × Traceroute
 
