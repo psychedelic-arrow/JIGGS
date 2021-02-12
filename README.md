@@ -32,8 +32,8 @@ ______________
 
 + pkg install toilet
 + git clone https://github.com/LOLGVH/JIGGS.git
-+ cd JIGGS
-+ sh install.sh
 + ls
++ chmod +x *
++ sh install.sh
 + sh JIGGS.sh
-_______________________________
+______________________________
