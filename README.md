@@ -30,10 +30,10 @@ ______________
 
 # INSTALL
 
-• pkg install toilet
-• git clone https://github.com/LOLGVH/JIGGS.git
-• cd JIGGS
-• sh install.sh
-• ls
-• sh JIGGS.sh
++ pkg install toilet
++ git clone https://github.com/LOLGVH/JIGGS.git
++ cd JIGGS
++ sh install.sh
++ ls
++ sh JIGGS.sh
 _______________________________
