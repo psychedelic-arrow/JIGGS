@@ -32,7 +32,7 @@ ______________
 # INSTALL
 
 + apt install python
-+apt instll python2
++ apt install python2
 + apt install curl
 + apt install toilet
 + git clone https://github.com/psychedelic-arrow/JIGGS.git
