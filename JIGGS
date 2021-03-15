@@ -34,7 +34,7 @@ echo "          "
 echo "    "
 echo $red"___________________________________________________"$brown"◆"
 echo $cyan" ["$white"+"$cyan"]Created by"	 : $yellow"ABHI~ "
-echo $cyan" ["$white"+"$cyan"]Github     : https://github.com/LOLGVH"
+echo $cyan" ["$white"+"$cyan"]Github     : https://github.com/psychedelic-arrow"
 echo " "
        echo $indigo"                  IP INFO TOOL"       
 echo $red"___________________________________________________"$brown"◆"
@@ -120,4 +120,4 @@ fi
 
 #Psychedelic-arrow copyright ©
 #author by ABHI 
-#Team CX
+#Team CX 
