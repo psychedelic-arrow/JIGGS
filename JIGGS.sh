@@ -113,7 +113,7 @@ fi
 if [ $back = "B" ] || [ $back = "b" ]
 then
 clear
-JIGGS.sh
+sh JIGGS
 fi
 
 
